@@ -21,7 +21,7 @@ Este projeto é um site estático de 10 páginas HTML, navegáveis entre si, con
 | `unipe-atual.html` | O UNIPÊ atualmente (grupo Cruzeiro do Sul) |
 | `conclusao.html` | Conclusão, referências e formulário de avaliação |
 
-## 🛠️ Tecnologias e elementos HTML utilizados
+## Tecnologias e elementos HTML utilizados
 
 - Estrutura semântica: `<header>`, `<nav>`, `<main>`, `<footer>`, `<section>`
 - Listas ordenadas e não ordenadas: `<ol>`, `<ul>`
